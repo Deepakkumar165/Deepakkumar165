@@ -66,4 +66,5 @@ I’m open to **collaboration** and **data-driven projects**. Feel free to reach
 
 ## 👁️‍🗨️ **Visitor Count**  
 
-![Visitor Count](https://profile-counter.glitch.me/Deepakkumar165/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Deepakkumar165.Deepakkumar165)
+

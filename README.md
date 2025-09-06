@@ -36,14 +36,20 @@ Currently, I am focusing on strengthening my expertise in **Python programming, 
 
 ## 📂 **Featured Projects**  
 
-### 1. [**Quotes Analysis**](https://github.com/J-TECH-bot/Quotes_Analysis.git) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- Performed **text analysis** to explore **patterns, sentiment, and word frequency** using **Python (Pandas, Matplotlib, Seaborn)**.  
+## 📂 **Featured Projects**  
 
-### 2. [**Student Performance Analysis**](https://github.com/Deepakkumar165/student_performance_analysis.git) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- Analyzed **student performance data** to **identify factors affecting academic outcomes** using **Python (Pandas, NumPy, Seaborn, Matplotlib)**.  
+### 1. [**Quotes Analysis**](https://github.com/J-TECH-bot/Quotes_Analysis.git)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-F6A13A?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge) ![NLP](https://img.shields.io/badge/NLP-0ABAB5?style=for-the-badge)  
+- Performed **text analysis** to explore **patterns, sentiment, and word frequency** using **Python (Pandas, Matplotlib, Seaborn)**.
 
-### 3. [**MarketMetrics: Grocery & FMCG Pricing Trends**](https://github.com/Sumaiyyaustad/MarketMetrics-Analyzing-Grocery-FMCG-Pricing-Trends.git) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- Conducted **exploratory data analysis** to **identify pricing trends, seasonal effects, and strategies** using **Python (Pandas, Matplotlib, Seaborn)**.  
+### 2. [**Student Performance Analysis**](https://github.com/Deepakkumar165/student_performance_analysis.git)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-F6A13A?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge) ![Statistics](https://img.shields.io/badge/Statistics-FF5733?style=for-the-badge)  
+- Analyzed **student performance data** to **identify factors affecting academic outcomes** using **Python (Pandas, NumPy, Seaborn, Matplotlib)**.
+
+### 3. [**MarketMetrics: Grocery & FMCG Pricing Trends**](https://github.com/Sumaiyyaustad/MarketMetrics-Analyzing-Grocery-FMCG-Pricing-Trends.git)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-F6A13A?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge) ![EDA](https://img.shields.io/badge/EDA-F4A261?style=for-the-badge)  
+- Conducted **exploratory data analysis** to **identify pricing trends, seasonal effects, and strategies** using **Python (Pandas, Matplotlib, Seaborn)**.
+  
 
 ---
 

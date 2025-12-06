@@ -39,10 +39,10 @@ Currently, I am focusing on strengthening my expertise in **Python programming, 
 ---
 
 ### 1️⃣ Twitter Sentiment Analysis
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-0ABAB5?style=for-the-badge)
-- Collected and cleaned Twitter data, removing noise and irrelevant content.  
-- Performed sentiment analysis using **ML** and **NLP**.  
-- Visualized insights through word clouds, bar charts, and pie charts.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-0ABAB5?style=for-the-badge) ![ML](https://img.shields.io/badge/Machine%20Learning-6f42c1?style=for-the-badge) ![EDA](https://img.shields.io/badge/EDA-F4A261?style=for-the-badge)
+- Collected and cleaned Twitter data, removing noise like URLs, mentions, and emojis.  
+- Performed NLP preprocessing and applied **machine learning models** for sentiment classification.  
+- Visualized insights using word clouds, bar charts, and sentiment distribution graphs.
 
 ---
 
@@ -70,9 +70,9 @@ Currently, I am focusing on strengthening my expertise in **Python programming, 
 
 ---
 
-## 📊 **GitHub Stats**  
+## 📊 GitHub Stats
 
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakkumar165&show_icons=true&theme=radical&count_private=true)  
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakkumar165&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkumar165&layout=compact&theme=radical)
 
 ---
